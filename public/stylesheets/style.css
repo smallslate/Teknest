@@ -1,0 +1,43 @@
+.header {
+	background-color: white !important;
+	margin-bottom: 2px;
+}
+
+.selectedHeaderLink {
+	color: #A85418 !important;
+  	border-bottom-color: #A85418 !important;
+  	border-bottom: 2px solid transparent;
+  	font-size: large;
+}
+
+.rightHeaderMargin {
+	margin-top: 1%;
+}
+
+.colorBlack {
+	color: black;
+}
+
+.backgroundColorBlack {
+	background-color: black!important;
+}
+
+.margin10px {
+	margin: 10px;
+}
+
+.marginLeft10px {
+	margin-left: 20px;
+}
+
+.marginTop10px {
+	margin-top: 10px;
+}
+
+.alignCenter {
+	text-align:center;
+}
+
+.noscreen {
+	display: none;
+}
